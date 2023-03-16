@@ -1,6 +1,6 @@
 ### Vuln List
 
-Record some discovered vulnerabilities
+Record some discovered vulnerabilities.
 
 ### State
-For learning purposes only, do not break the law
+For learning purposes only, do not break the law.
